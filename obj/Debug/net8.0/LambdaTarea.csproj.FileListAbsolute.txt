@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\bin\Debug\net8.0\LambdaTarea.exe
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\bin\Debug\net8.0\LambdaTarea.deps.json
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\bin\Debug\net8.0\LambdaTarea.runtimeconfig.json
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\bin\Debug\net8.0\LambdaTarea.dll
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\bin\Debug\net8.0\LambdaTarea.pdb
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.AssemblyInfo.cs
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.dll
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\refint\LambdaTarea.dll
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.pdb
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\LambdaTarea.genruntimeconfig.cache
+C:\Users\usuario\source\repos\LambdaTarea\LambdaTarea\obj\Debug\net8.0\ref\LambdaTarea.dll
